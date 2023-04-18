@@ -1,0 +1,13 @@
+2023-04-14 18:21:17,476 [INFO] Copied file: /Users/artemfranchuk/Documents/Dev/pytest_project/source_folder/Screenshot 2023-04-06 at 17.48.34.png to //Users/artemfranchuk/Documents/Dev/pytest_project/replica_folder/Screenshot 2023-04-06 at 17.48.34.png
+2023-04-14 18:21:17,492 [INFO] Copied file: /Users/artemfranchuk/Documents/Dev/pytest_project/source_folder/Screenshot 2023-04-13 at 19.14.15 (2).png to //Users/artemfranchuk/Documents/Dev/pytest_project/replica_folder/Screenshot 2023-04-13 at 19.14.15 (2).png
+2023-04-14 18:21:17,496 [INFO] Copied file: /Users/artemfranchuk/Documents/Dev/pytest_project/source_folder/.DS_Store to //Users/artemfranchuk/Documents/Dev/pytest_project/replica_folder/.DS_Store
+2023-04-14 18:23:17,513 [INFO] Copied file: /Users/artemfranchuk/Documents/Dev/pytest_project/source_folder/.DS_Store to //Users/artemfranchuk/Documents/Dev/pytest_project/replica_folder/.DS_Store
+2023-04-14 18:23:17,514 [INFO] Removed file: //Users/artemfranchuk/Documents/Dev/pytest_project/replica_folder/Screenshot 2023-04-13 at 19.14.15 (2).png
+2023-04-14 18:24:17,524 [INFO] Copied file: /Users/artemfranchuk/Documents/Dev/pytest_project/source_folder/some changes.png to //Users/artemfranchuk/Documents/Dev/pytest_project/replica_folder/some changes.png
+2023-04-14 18:24:17,529 [INFO] Removed file: //Users/artemfranchuk/Documents/Dev/pytest_project/replica_folder/Screenshot 2023-04-06 at 17.48.34.png
+2023-04-14 18:26:17,543 [INFO] Copied file: /Users/artemfranchuk/Documents/Dev/pytest_project/source_folder/.DS_Store to //Users/artemfranchuk/Documents/Dev/pytest_project/replica_folder/.DS_Store
+2023-04-14 18:26:17,545 [INFO] Copied file: /Users/artemfranchuk/Documents/Dev/pytest_project/source_folder/Sketch.png to //Users/artemfranchuk/Documents/Dev/pytest_project/replica_folder/Sketch.png
+2023-04-14 18:31:41,589 [INFO] Copied file: /Users/artemfranchuk/Documents/Dev/pytest_project/source_folder/.DS_Store to //Users/artemfranchuk/Documents/Dev/pytest_project/replica_folder/.DS_Store
+2023-04-14 18:31:41,591 [INFO] Copied file: /Users/artemfranchuk/Documents/Dev/pytest_project/source_folder/Sketch.png to //Users/artemfranchuk/Documents/Dev/pytest_project/replica_folder/Sketch.png
+2023-04-14 18:31:41,592 [INFO] Created folder: //Users/artemfranchuk/Documents/Dev/pytest_project/replica_folder/untitled folder
+2023-04-14 18:31:41,593 [INFO] Removed file: //Users/artemfranchuk/Documents/Dev/pytest_project/replica_folder/123.png
